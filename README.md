@@ -1,2 +1,2 @@
 # bin2hex
-Transform ".bin" file to ".h" containing hex data
+Transform ".bin" file to hex data and store to ".h" file
